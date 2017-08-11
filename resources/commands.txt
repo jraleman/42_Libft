@@ -1,0 +1,5 @@
+# See what functions are being called in an object file.
+nm -u *.o
+
+# Finish under 10 seconds, otherwise you'll get a timeout from Moultinette.
+ls -l; make clean && make && make fclean && make && make re && ls -l libft.a
