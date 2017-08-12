@@ -2,7 +2,7 @@
 
 ## LibFT
 
-**[CLICK HERE FOR A MORE UP TO DATE VERSION](https://gitlab.com/jraleman/libft)**
+**[CLICK HERE FOR AN UPDATED VERSION](https://github.com/jraleman/libft)**
 
 <img src="resources/libft-finalmark.png" width="350" />
 
